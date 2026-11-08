@@ -64,7 +64,7 @@ chmod +x notion_sync.py
       "token": "ntn_你的_personal_token",
       "output_dir": "./personal",
       "roots": [
-        "https://www.notion.so/Projects-3ce935f391828099aaf5c544835cfa0b",
+        "https://www.notion.so/Projects-abc123...",
         "https://www.notion.so/Notes-abc123...",
         "https://www.notion.so/Reading-List-def456..."
       ]
@@ -107,7 +107,7 @@ Mode: incremental
 ============================================================
 
 Root pages (3):
-  • 1-Projects  (3ce935f3-...)
+  • 1-Projects  (abc123...)
   • Notes  (abc123...)
   • Reading List  (def456...)
 
